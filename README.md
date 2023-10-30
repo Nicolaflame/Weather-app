@@ -17,3 +17,9 @@ checkWeather @ app.js:7
 (anonymous) @ app.js:16
 
 
+## API call links
+
+### imperial measurments
+https://api.openweathermap.org/data/2.5/weather?lat=57&lon=-2.15&appid={6b2eda41783655e86c012a61c640e4ca}&units=imperial
+
+
